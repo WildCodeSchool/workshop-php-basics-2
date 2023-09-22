@@ -1,8 +1,9 @@
 # Démarrage
 
 
-1.  Reprends le fichier `index.php` de ton dossier `basics`
-2.  Démarre un serveur HTTP sur ce dernier
+Reprends le fichier `index.php` de ton dossier `basics` de [l'atelier précédent](https://wildcodeschool.github.io/workshop-php-basics-1/).  
+Démarre un serveur HTTP sur ce dernier.
+{: .alert-info }
 
 ## Boucle for
 
